@@ -97,7 +97,7 @@ Review state: the snapshot records current-head approvals, requested reviewers, 
 
 Review-needed attempts:
 
-- No linked attempts awaited review as of 2026-11-24T15:11:03Z.
+- Unknown for attempts missing from the snapshot; refresh the GitHub snapshot.
 
 ## Reservation protocol
 
